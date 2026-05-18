@@ -1,7 +1,7 @@
 #Compare two numbers and print the larger one.
 #Get user input for the two numbers
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
 
 if num1>num2:
     print("the larger number is: ", num1)
