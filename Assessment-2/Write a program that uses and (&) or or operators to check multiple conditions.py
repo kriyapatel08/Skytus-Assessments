@@ -6,7 +6,7 @@ num2 = int(input("Enter the second number: "))
 if num1 > 0 and num2 > 0:
     print("Both numbers are positive.")
 # Check if at least one number is positive using the or operator
-elif num1 > 0 or num2 < 0:
+elif num1 > 0 or num2 > 0:
     print("At least one number is positive.")
 else:
     print("Neither number is positive.")
