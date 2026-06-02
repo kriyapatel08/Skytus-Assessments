@@ -1,0 +1,5 @@
+ Python is a powerful programming language.
+ I am learning file handling in Python.
+Practice helps improve coding skills.
+VS Code is a popular code editor.
+ Programming is fun and interesting.

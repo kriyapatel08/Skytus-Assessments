@@ -1,0 +1,4 @@
+Hello World
+Welcome to Python
+File Handling Practical
+Python Programming
