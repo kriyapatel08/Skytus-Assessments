@@ -1,0 +1,52 @@
+[
+    {
+        "question":"What is the capital of India?",
+        "options":["Mumbai","Delhi","Kolkata","Chennai"],
+        "answer":"Delhi"
+    },
+    {
+        "question":"Who developed Python?",
+        "options":["James Gosling","Guido van Rossum","Dennis Ritchie","Bjarne Stroustrup"],
+        "answer":"Guido van Rossum"
+    },
+    {
+        "question":"Which keyword is used to create a function in Python?",
+        "options":["func","define","def","function"],
+        "answer":"def"
+    },
+    {
+        "question":"Which data type stores True or False?",
+        "options":["String","Boolean","Integer","Float"],
+        "answer":"Boolean"
+    },
+    {
+        "question":"Which symbol is used for comments in Python?",
+        "options":["//","#","/*","--"],
+        "answer":"#"
+    },
+    {
+        "question":"Which operator is used for exponentiation?",
+        "options":["^","**","%","//"],
+        "answer":"**"
+    },
+    {
+        "question":"Which function is used to get user input?",
+        "options":["input()","scanf()","cin","read()"],
+        "answer":"input()"
+    },
+    {
+        "question":"Which keyword is used for loops?",
+        "options":["for","repeat","loop","iterate"],
+        "answer":"for"
+    },
+    {
+        "question":"Which collection is enclosed in square brackets []?",
+        "options":["Tuple","Dictionary","List","Set"],
+        "answer":"List"
+    },
+    {
+        "question":"Python is a ______ language.",
+        "options":["Compiled","Machine","High-Level","Assembly"],
+        "answer":"High-Level"
+    }
+]
